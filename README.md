@@ -1,20 +1,11 @@
-<table style="border:none;"
->
-    <tr>
-        <td align="center">
-            <img width="250" src="https://avatars.githubusercontent.com/u/500234?s=400&u=623c6fa100138e5e8e681a959b0d7c8decbba90e&v=4" alt="PeterH3G GitHub Avatar" />
-        </td>
-        <td>
-            <pre>
-                ## 🌱 I’m currently learning:
-                * Laravel API Development
-                * VueJS GUI Development
-                * GraphQL API Technology
-                * Android Application Development             
-            </pre>
-        </td>
-    </tr>
-</table>
+## 🌱 I’m currently learning:
+* Laravel API Development
+* VueJS GUI Development
+* GraphQL API Technology
+* Android Application Development
+* And more...
+
+<br>
 
 ## ⚡ My Interests are:
 [Microsoft WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10/),
@@ -24,6 +15,8 @@
 [Vue CLI](https://cli.vuejs.org/),
 [GraphQL](https://graphql.org/),
 [Android Studio](https://developer.android.com/studio/?authuser=1/),
+
+<br>
 
 ## ✨ More information...
 [My GitHub Pages](https://peterh3g.github.io/pages/)
