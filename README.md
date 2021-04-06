@@ -7,7 +7,7 @@
 * VueJS GUI Development
 * Android Application Development
 
-## ⚡ Some tools I use:
+## ⚡ Tools I use:
 [Microsoft WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10),
 [Docker Desktop](https://www.docker.com/products/docker-desktop),
 [Android Studio](https://developer.android.com/studio/?authuser=1),
