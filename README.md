@@ -1,6 +1,7 @@
-# Hi there 👋
+# Hello Universe! 👋
 
-# Laravel, VueJS, Andriod Studio
+## My interesses:
+### Laravel, VueJS, Andriod Studio
 
 <!--
 **PeterH3G/peterh3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
