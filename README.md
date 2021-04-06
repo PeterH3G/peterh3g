@@ -1,6 +1,8 @@
-![Image of PeterH3G Logo](https://avatars.githubusercontent.com/u/500234?s=400&u=623c6fa100138e5e8e681a959b0d7c8decbba90e&v=4)
+<p align="center">
+    <img src="https://avatars.githubusercontent.com/u/500234?s=400&u=623c6fa100138e5e8e681a959b0d7c8decbba90e&v=4" />
+</p>
 
-# 👋 Hello Universe!
+**Hello Universe!**
 
 ## 🌱 I’m currently learning:
 * Laravel API/GraphQL Development
