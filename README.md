@@ -12,7 +12,8 @@
 [Docker Desktop](https://www.docker.com/products/docker-desktop),
 [Android Studio](https://developer.android.com/studio/?authuser=1),
 
-## ✨ [Check my GitHub Pages for more information...](https://peterh3g.github.io/pages)
+## ✨ More information...
+[My GitHub Pages](https://peterh3g.github.io/pages)
 
 <!--
 **PeterH3G/peterh3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
