@@ -1,14 +1,14 @@
 # 👋 Hello Universe!
 
 ## 🌱 I’m currently learning:
-* 🌱 Laravel API Development
-* 🌱 VueJS GUI Development
-* 🌱 Android Application Development
+* Laravel API Development
+* VueJS GUI Development
+* Android Application Development
 
 ## ⚡ Software Tools links:
-* ⚡ Microsoft WSL
-* ⚡ Docker
-* ⚡ Android Studio
+* [Microsoft WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+* [Docker](https://www.docker.com/products/docker-desktop)
+* [Android Studio](https://developer.android.com/studio/?authuser=1)
 
 <!--
 **PeterH3G/peterh3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
