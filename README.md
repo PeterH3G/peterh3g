@@ -1,3 +1,5 @@
+![Image of PeterH3G Logo](https://avatars.githubusercontent.com/u/500234?s=400&u=623c6fa100138e5e8e681a959b0d7c8decbba90e&v=4)
+
 # 👋 Hello Universe!
 
 ## 🌱 I’m currently learning:
@@ -6,9 +8,9 @@
 * Android Application Development
 
 ## ⚡ Some tools I use:
-[Microsoft WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-[Docker Desktop](https://www.docker.com/products/docker-desktop)
-[Android Studio](https://developer.android.com/studio/?authuser=1)
+[Microsoft WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10),
+[Docker Desktop](https://www.docker.com/products/docker-desktop),
+[Android Studio](https://developer.android.com/studio/?authuser=1),
 
 ## ✨ [Check my GitHub Pages for more information...](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
