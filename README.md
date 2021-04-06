@@ -3,17 +3,22 @@
 </p>
 
 ## 🌱 I’m currently learning:
-* Laravel API/GraphQL Development
+* Laravel API Development
 * VueJS GUI Development
+* GraphQL API Technology
 * Android Application Development
 
 ## ⚡ Tools I use:
-[Microsoft WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10),
-[Docker Desktop](https://www.docker.com/products/docker-desktop),
-[Android Studio](https://developer.android.com/studio/?authuser=1),
+[Microsoft WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10/),
+[Docker Desktop](https://www.docker.com/products/docker-desktop/)
+[Laravel](https://laravel.com/),
+[VueJS](https://vuejs.org/),
+[Vue CLI](https://cli.vuejs.org/),
+[GraphQL](https://graphql.org/),
+[Android Studio](https://developer.android.com/studio/?authuser=1/),
 
 ## ✨ More information...
-[My GitHub Pages](https://peterh3g.github.io/pages)
+[My GitHub Pages](https://peterh3g.github.io/pages/)
 
 <!--
 **PeterH3G/peterh3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
