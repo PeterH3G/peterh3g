@@ -8,7 +8,7 @@
 * GraphQL API Technology
 * Android Application Development
 
-## ⚡ Tools I use:
+## ⚡ My Interests:
 [Microsoft WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10/),
 [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 [Laravel](https://laravel.com/),
