@@ -1,9 +1,9 @@
 # 👋 Hello Universe!
 
-🌱 I’m currently learning:
-🌱 Laravel API Development
-🌱 VueJS GUI Development
-🌱 Andriod Application Development
+🌱 **I’m currently learning:*
+* 🌱 Laravel API Development
+* 🌱 VueJS GUI Development
+* 🌱 Andriod Application Development
 
 <!--
 **PeterH3G/peterh3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
