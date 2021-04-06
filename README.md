@@ -1,8 +1,6 @@
 <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/500234?s=400&u=623c6fa100138e5e8e681a959b0d7c8decbba90e&v=4" />
+    <img width="250" src="https://avatars.githubusercontent.com/u/500234?s=400&u=623c6fa100138e5e8e681a959b0d7c8decbba90e&v=4" alt="PeterH3G GitHub Avatar" />
 </p>
-
-**Hello Universe!**
 
 ## 🌱 I’m currently learning:
 * Laravel API/GraphQL Development
