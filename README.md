@@ -1,14 +1,21 @@
-<p align="center">
-    <img width="250" src="https://avatars.githubusercontent.com/u/500234?s=400&u=623c6fa100138e5e8e681a959b0d7c8decbba90e&v=4" alt="PeterH3G GitHub Avatar" />
-</p>
+<table>
+    <tr>
+        <td align="center">
+            <img width="250" src="https://avatars.githubusercontent.com/u/500234?s=400&u=623c6fa100138e5e8e681a959b0d7c8decbba90e&v=4" alt="PeterH3G GitHub Avatar" />
+        </td>
+        <td>
+            <pre>
+                ## 🌱 I’m currently learning:
+                * Laravel API Development
+                * VueJS GUI Development
+                * GraphQL API Technology
+                * Android Application Development             
+            </pre>
+        </td>
+    </tr>
+</table>
 
-## 🌱 I’m currently learning:
-* Laravel API Development
-* VueJS GUI Development
-* GraphQL API Technology
-* Android Application Development
-
-## ⚡ My Interests:
+## ⚡ My Interests are:
 [Microsoft WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10/),
 [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 [Laravel](https://laravel.com/),
