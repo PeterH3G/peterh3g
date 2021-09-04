@@ -1,4 +1,4 @@
-## 🌱 I’m currently learning:
+## 🌱 I’m currently working on:
 * Laravel API Development
 * VueJS GUI Development
 * GraphQL API Technology
