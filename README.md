@@ -1,13 +1,13 @@
-## 🌱 I’m currently working on:
+## 🌱 Growth...
 * Laravel API Development
 * VueJS GUI Development
 * GraphQL API Technology
 * Android Application Development
-* And more...
+* And others...
 
 <br>
 
-## ⚡ My Interests are:
+## ⚡Handy links...
 [Microsoft WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10/),
 [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 [Laravel](https://laravel.com/),
@@ -18,7 +18,7 @@
 
 <br>
 
-## ✨ More information...
+## ✨Some of my stuff...
 [My GitHub Pages](https://peterh3g.github.io/pages/)
 
 <!--
