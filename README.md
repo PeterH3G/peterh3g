@@ -2,16 +2,15 @@
 | Subject | Description |
 | ----------- | ----------- |
 | [Laravel](https://laravel.com/) | |
-| [Vue JS](https://vuejs.org/) | |
-| [Vue CLI](https://cli.vuejs.org/) | |
-| [GraphQL](https://graphql.org/) | |
-| [Microsoft WSL](https://docs.microsoft.com/en-us/windows/wsl) | |
-| [Docker](https://www.docker.com) | |
-| [Android Studio](https://developer.android.com) | |
+| [Vue JS](https://vuejs.org/) | An approachable, performant and versatile framework for building web user interfaces. |
+| [Vue CLI](https://cli.vuejs.org/) | Standard Tooling for Vue.js Development |
+| [GraphQL](https://graphql.org/) | GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. |
+| [Microsoft WSL](https://docs.microsoft.com/en-us/windows/wsl) | Windows Subsystem for Linux (WSL) lets developers run a GNU/Linux environment directly on Windows. |
+| [Docker](https://www.docker.com) | Docker takes away repetitive, mundane configuration tasks and is used throughout the development lifecycle for fast, easy and portable application development. |
+| [Android Studio](https://developer.android.com/studio) | Android Studio provides the fastest tools for building apps on every type of Android device. |
 
 
-
-**[My GitHub Pages](https://peterh3g.github.io)**
+**🔭[My GitHub Pages](https://peterh3g.github.io)**
 
 <!--
 **PeterH3G/peterh3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
