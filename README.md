@@ -1,7 +1,7 @@
 ## 🌱 My interests:
 | Subject | Description |
 | ----------- | ----------- |
-| [Laravel](https://laravel.com/) | |
+| [Laravel](https://laravel.com/) | Laravel is a web application framework with expressive, elegant syntax.  |
 | [Vue JS](https://vuejs.org/) | An approachable, performant and versatile framework for building web user interfaces. |
 | [Vue CLI](https://cli.vuejs.org/) | Standard Tooling for Vue.js Development |
 | [GraphQL](https://graphql.org/) | GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. |
