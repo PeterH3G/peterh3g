@@ -1,3 +1,12 @@
+<style>
+table th:first-of-type {
+    width: 30%;
+}
+table th:nth-of-type(2) {
+    width: 70%;
+}
+</style>
+
 ## 🌱 My interests:
 | <span style="display: inline-block; width:500px">Subject</span> | Description |
 | ----------- | ----------- |
