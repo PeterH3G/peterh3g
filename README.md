@@ -1,13 +1,4 @@
-## 🌱 Growth...
-* Laravel API Development
-* VueJS GUI Development
-* GraphQL API Technology
-* Android Application Development
-* And others...
-
-<br>
-
-## ⚡Handy links...
+## 🌱
 [Microsoft WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10/),
 [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 [Laravel](https://laravel.com/),
@@ -18,8 +9,8 @@
 
 <br>
 
-## ✨Some of my stuff...
-[My GitHub Pages](https://peterh3g.github.io/pages/)
+## ✨My Github Pages
+[My GitHub Pages](https://peterh3g.github.io)
 
 <!--
 **PeterH3G/peterh3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
