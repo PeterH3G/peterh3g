@@ -1,22 +1,13 @@
-<style>
-table th:first-of-type {
-    width: 30%;
-}
-table th:nth-of-type(2) {
-    width: 70%;
-}
-</style>
-
 ## 🌱 My interests:
-| <span style="display: inline-block; width:500px">Subject</span> | Description |
+| Subject | Description |
 | ----------- | ----------- |
 | [Laravel](https://laravel.com/) | Laravel is a web application framework with expressive, elegant syntax.  |
 | [Vue JS](https://vuejs.org/) | An approachable, performant and versatile framework for building web user interfaces. |
 | [Vue CLI](https://cli.vuejs.org/) | Standard Tooling for Vue.js Development |
-| [GraphQL](https://graphql.org/) | GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. |
-| [Microsoft WSL](https://docs.microsoft.com/en-us/windows/wsl) | Windows Subsystem for Linux (WSL) lets developers run a GNU/Linux environment directly on Windows. |
-| [Docker](https://www.docker.com) | Docker takes away repetitive, mundane configuration tasks and is used throughout the development lifecycle for fast, easy and portable application development. |
-| [Android Studio](https://developer.android.com/studio) | Android Studio provides the fastest tools for building apps on every type of Android device. |
+| [GraphQL](https://graphql.org/) | GraphQL is a query language for APIs and a runtime for queries. |
+| [Microsoft WSL](https://docs.microsoft.com/en-us/windows/wsl) | WSL lets developers run a GNU/Linux environment directly on Windows. |
+| [Docker](https://www.docker.com) | Docker is used throughout the development lifecycle for fast, easy and portable application development. |
+| [Android Studio](https://developer.android.com/studio) | Android Studio provides the tools for building apps on Android devices. |
 
 
 **🔭[My GitHub Pages](https://peterh3g.github.io)**
