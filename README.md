@@ -1,4 +1,4 @@
-## 🌱
+## 🌱 My interests:
 [Microsoft WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10/),
 [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 [Laravel](https://laravel.com/),
@@ -9,8 +9,7 @@
 
 <br>
 
-## ✨My Github Pages
-[My GitHub Pages](https://peterh3g.github.io)
+## [My GitHub Pages](https://peterh3g.github.io)
 
 <!--
 **PeterH3G/peterh3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
