@@ -1,5 +1,5 @@
 ## 🌱 My interests:
-| <div style="width:500px">Subject</div> | Description |
+| <span style="display: inline-block; width:500px">Subject</span> | Description |
 | ----------- | ----------- |
 | [Laravel](https://laravel.com/) | Laravel is a web application framework with expressive, elegant syntax.  |
 | [Vue JS](https://vuejs.org/) | An approachable, performant and versatile framework for building web user interfaces. |
