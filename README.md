@@ -1,5 +1,6 @@
-## 🌱 My interests:
-| Subject | Description |
+**🔭 Check out [My GitHub Pages](https://peterh3g.github.io)**
+
+| 🌱 My interests | Description |
 | ----------- | ----------- |
 | [Laravel](https://laravel.com/) | Laravel is a web application framework with expressive, elegant syntax.  |
 | [Vue JS](https://vuejs.org/) | An approachable, performant and versatile framework for building web user interfaces. |
@@ -8,9 +9,6 @@
 | [Microsoft WSL](https://docs.microsoft.com/en-us/windows/wsl) | WSL lets developers run a GNU/Linux environment directly on Windows. |
 | [Docker](https://www.docker.com) | Docker is used throughout the development lifecycle for fast, easy and portable application development. |
 | [Android Studio](https://developer.android.com/studio) | Android Studio provides the tools for building apps on Android devices. |
-
-
-**🔭[My GitHub Pages](https://peterh3g.github.io)**
 
 <!--
 **PeterH3G/peterh3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
