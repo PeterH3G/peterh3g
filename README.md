@@ -1,7 +1,7 @@
 **🔭 Check out [My GitHub Pages](https://peterh3g.github.io)**
 
 | 🌱 My interests | Description |
-| ----------- | ----------- |
+| :-----------: | ----------- |
 | [Laravel](https://laravel.com/) | Laravel is a web application framework with expressive, elegant syntax.  |
 | [Vue JS](https://vuejs.org/) | An approachable, performant and versatile framework for building web user interfaces. |
 | [Vue CLI](https://cli.vuejs.org/) | Standard Tooling for Vue.js Development |
