@@ -1,7 +1,7 @@
 # 🌍 Hello World!  
 
 ```bash
-  my_bio: '...',
+peter3hg@github:_
 ```
 
 ### 🔭 My Development Tools
