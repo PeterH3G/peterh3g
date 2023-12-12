@@ -3,7 +3,10 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         h1 {
+          width: 100%;
+          color: white;
           font-size: 2rem;
+          text-align: center;
         }
       </style>
       <h1>Hello World!</h1>
