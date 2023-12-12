@@ -1,34 +1,4 @@
-<svg viewBox="0 0 100% 400" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .top-image {
-          display: flex;
-          align-items: center;
-          width: 100%;
-          padding: 16px;
-          color: green;
-        }
-        .cursor {
-          color: green;
-          animation: cursor 1s infinite;
-        }
-        @keyframes cursor {
-          0% {
-            color: green;
-          } 
-          50% {
-            color: white;
-          }
-        }
-      </style>
-      <code class="top-image">
-        PeterH3G@GitHub:> User is ready!
-        <div class="cursor">_</div>
-      </code>
-    </div>
-  </foreignObject>
-</svg>
+<img src="display.svg" width="100%" alt="css-in-readme">
 
 ## 💬 About myself
 More to follow....
