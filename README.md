@@ -8,7 +8,7 @@ peterh3g@github.com:> User is ready!_
 some text about myself and my road to beeing a application developer.
 
 ### Extras
-| 🌱 | Documentation for development and environments | Link |
+| 🌱 | Documentation for tools and environments | Link |
 | --- | --- | --- | 
 | ⚙️ | Nuxt 3: The Intuitive Vue Framework | [Visit website](https://nuxt.com/)|
 | ⚙️ | Vuetify 3: Vue Component Framework | [Visit website](https://vuetifyjs.com/en/)|
