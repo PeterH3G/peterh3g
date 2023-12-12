@@ -1,10 +1,10 @@
 # ✨ Hi People ✨ 
 
 ### 🔭 My Development Tools
-- [Nuxt 3](https://nuxt.com/)
-- [Vuetify 3](https://vuetifyjs.com/en/)
-- [Docker](https://www.docker.com/)
-- [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/about?source=recommendations)
+- [Visit Nuxt website](https://nuxt.com/)
+- [Visit Vuetify website](https://vuetifyjs.com/en/)
+- [Visit Docker website](https://www.docker.com/)
+- [Visit Windows Subsystem for Linux webiste](https://learn.microsoft.com/en-us/windows/wsl/about?source=recommendations)
 
   
 <!--
