@@ -1,9 +1,7 @@
-# 🌍 Hello World!  
-
 ```
 peterh3g@github.com:> User is ready!_
 ```
-
+# 🌍 Hello World!  
 
 ## 💬 About myself
 More to follow....
