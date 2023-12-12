@@ -17,9 +17,10 @@
         .container::after {
           content: 'You are using a light theme';
         }
+        
         @media (prefers-color-scheme: dark) {
           .container {
-            background: #323232;
+            background: rgba(0,0,0,.1);
             color: white;
           }
           .container::after {
