@@ -15,9 +15,7 @@
           padding: 15px;
         }
         .container::after {
-          content: '
-            Hello Universe!
-          ';
+          content: 'Hello Universe!';
         }
       </style>
       <div class="container" />
