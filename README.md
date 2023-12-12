@@ -11,16 +11,16 @@ some text about myself and my road to beeing a application developer.
 
 ## 📚 Documentation 
 ### 📗 Development Frameworks
-📖 Nuxt 3: The Intuitive Vue Framework | [Visit website](https://nuxt.com/)
-📖 Vuetify 3: Vue Component Framework | [Visit website](https://vuetifyjs.com/en/)
+- 📖 Nuxt 3: The Intuitive Vue Framework | [Visit website](https://nuxt.com/)
+- 📖 Vuetify 3: Vue Component Framework | [Visit website](https://vuetifyjs.com/en/)
 
 ### 📕 Virtualization Environments
-📖 Docker: Accelerated Container Application Development | [Visit website](https://www.docker.com/)
-📖 Windows Subsystem for Linxux | [Visit website](https://learn.microsoft.com/en-us/windows/wsl/about?source=recommendations)
+- 📖 Docker: Accelerated Container Application Development | [Visit website](https://www.docker.com/)
+- 📖 Windows Subsystem for Linxux | [Visit website](https://learn.microsoft.com/en-us/windows/wsl/about?source=recommendations)
 
 ### 📘 Github Documentation
-📖 Github Pages | [Visit website](https://pages.github.com/)
-📖 Github Markdown | [Visit website](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+- 📖 Github Pages | [Visit website](https://pages.github.com/)
+- 📖 Github Markdown | [Visit website](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 
   
 <!--
