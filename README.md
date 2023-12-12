@@ -1,12 +1,10 @@
 # ✨ Hi People ✨ 
 
-😄 My name is Peter. <br>
-
-## 🔭 I’m currently working on
-- Nuxt 3 projects
-- Vuetify 3 projects
-- Docker projects
-- Windows Subsystem for Linux (WSL) optimalizations
+## 🔭 Current projects:
+- [Nuxt 3](https://nuxt.com/)
+- [Vuetify 3](https://vuetifyjs.com/en/)
+- [Docker](https://www.docker.com/)
+- [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/about?source=recommendations)
 
   
 <!--
