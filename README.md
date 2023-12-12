@@ -1,7 +1,15 @@
-### Hi there 👋
+# ✨ Hi People ✨ 
 
+😄 My name is Peter.
+🔭 I’m currently working on
+- Nuxt 3 projects
+- Vuetify 3 projects
+- Docker projects
+- Windows Subsystem for Linux (WSL) optimalizations
+
+  
 <!--
-**PeterH3G/peterh3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PeterH3G/peterh3g** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
