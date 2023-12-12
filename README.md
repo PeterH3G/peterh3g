@@ -1,21 +1,22 @@
 # 🌍 Hello World!  
 
 ```bash
-function i_am () {
-
-  peterh3g: {
-    my_bio: '...',
-
-    my_interests: [
-      { id: 'Full stack development' },
-      { id: 'Virtualization techniques' },
-      { id: 'Ai & Large Language Models (LLM)' },
-    ],
-
-    my_favorite: [
-      javascript_framework: 'nuxt 3'
-    ]
-  }
+function i_am_peterh3g () {
+```
+```bash
+  my_bio: '...',
+```
+```bash
+  my_interests: [
+    { id: 'Full stack development' },
+    { id: 'Virtualization techniques' },
+    { id: 'Ai & Large Language Models (LLM)' },
+  ],
+```
+```bash
+  my_favorite: [
+    javascript_framework: 'nuxt 3'
+  ]
 }
 ```
 
