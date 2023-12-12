@@ -5,8 +5,9 @@ More to follow....
 
 
 
-|📚 Documentation  | 🔗 Links |
-| :--- | --- |
+|📚 Documentation | 🔗 |
+| :--- | :---: |
+| 📗 Vue 3: The Progressive JavaScript Framework | [website](https://vuejs.org/) |
 | 📗 Nuxt 3: The Intuitive Vue Framework | [website](https://nuxt.com/) |
 | 📗 Vuetify 3: Vue Component Framework | [website](https://vuetifyjs.com/en/) |
 | 📕 Docker: Accelerated Container Application Development | [website](https://www.docker.com/) |
