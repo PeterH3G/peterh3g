@@ -1,6 +1,6 @@
 # ✨ Hi People ✨ 
 
-😄 My name is Peter.
+😄 My name is Peter. <br>
 🔭 I’m currently working on
 - Nuxt 3 projects
 - Vuetify 3 projects
