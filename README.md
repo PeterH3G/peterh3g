@@ -1,8 +1,8 @@
 # 🌍 Hello World!  
 
 ### 🔭 My Development Tools
-| Description | Website |
-| ----------- | ------- |
+|   |   |
+| - | - |
 | Nuxt 3 | [Visit Nuxt website](https://nuxt.com/)|
 | Vuetify 3 | [Visit Vuetify website](https://vuetifyjs.com/en/)|
 | Docker | [Visit Docker website](https://www.docker.com/)|
