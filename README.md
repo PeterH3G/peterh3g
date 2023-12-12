@@ -1,10 +1,10 @@
 # 🌍 Hello World!  
 
 ### 🔭 My Development Tools
-- Visit [Nuxt website](https://nuxt.com/)
-- Visit [Vuetify website](https://vuetifyjs.com/en/)
-- Visit [Docker website](https://www.docker.com/)
-- Visit [Windows Subsystem for Linux webiste](https://learn.microsoft.com/en-us/windows/wsl/about?source=recommendations)
+- Visit Nuxt [website](https://nuxt.com/)
+- Visit Vuetify [website](https://vuetifyjs.com/en/)
+- Visit Docker [website](https://www.docker.com/)
+- Visit Windows Subsystem for Linux [webiste](https://learn.microsoft.com/en-us/windows/wsl/about?source=recommendations)
 
   
 <!--
