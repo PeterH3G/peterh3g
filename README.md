@@ -2,14 +2,17 @@
 
 ```bash
 function i_am () {
+
   peterh3g: {
-    bio: '...',
-    interests: [
+    my_bio: '...',
+
+    my_interests: [
       { id: 'Full stack development' },
       { id: 'Virtualization techniques' },
       { id: 'Ai & Large Language Models (LLM)' },
     ],
-    favorite: [
+
+    my_favorite: [
       javascript_framework: 'nuxt 3'
     ]
   }
