@@ -7,18 +7,20 @@ peterh3g@github.com:> User is ready!_
 ## 💬 About myself
 some text about myself and my road to beeing a application developer.
 
-## 📚 Documentation
-| 📗 | Development Frameworks | 🔗 Link |
+## 📚 Documentation Development Frameworks
+| 📗 | Subject | 🔗 Link |
 | --- | :--- | --- |
 | 📖 | Nuxt 3: The Intuitive Vue Framework | [Visit website](https://nuxt.com/)|
 | 📖 | Vuetify 3: Vue Component Framework | [Visit website](https://vuetifyjs.com/en/)|
 
-| 📕 | Virtualization Environments | 🔗 Link |
+## 📚 Documentation Virtualization Environments
+| 📕 | Subject | 🔗 Link |
 | --- | :--- | --- |
 | 📖 | Docker: Accelerated Container Application Development | [Visit website](https://www.docker.com/)|
 | 📖 | Windows Subsystem for Linxux | [Visit website](https://learn.microsoft.com/en-us/windows/wsl/about?source=recommendations)|
 
-| 📘 | Github Documentation | 🔗 Link |
+## 📚 Github Documentation
+| 📘 | Subject | 🔗 Link |
 | --- | :--- | --- |
 | 📖 | Github Pages | [Visit website](https://pages.github.com/) |
 | 📖 | Github Markdown | [Visit website](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) |
