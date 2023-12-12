@@ -1,7 +1,7 @@
 # 🌍 Hello World!  
 
 ```bash
-peter3hg@github:> User is ready!_
+peterh3g@github.com:> User is ready!_
 ```
 
 ### 🔭 My Development Tools
