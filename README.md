@@ -1,9 +1,10 @@
 <img src="display.svg" width="100%" height="200" alt="css-in-readme">
 
+
 ## 💬 About myself
 More to follow....
 
-
+<div align="center">
 
 |📚 Documentation | 🔗 |
 | :--- | :---: |
@@ -15,6 +16,7 @@ More to follow....
 | 📘 Github Pages | [website](https://pages.github.com/) |
 | 📘 Github Markdown | [website](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) |
 
+</div>
   
 <!--
 **PeterH3G/peterh3g** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
