@@ -1,6 +1,6 @@
 # 🌍 Hello World!  
 
-```bash
+```
 peterh3g@github.com:> User is ready!_
 ```
 
