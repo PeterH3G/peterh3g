@@ -1,7 +1,8 @@
 # ✨ Hi People ✨ 
 
 😄 My name is Peter. <br>
-🔭 I’m currently working on
+
+## 🔭 I’m currently working on
 - Nuxt 3 projects
 - Vuetify 3 projects
 - Docker projects
