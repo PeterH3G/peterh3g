@@ -1,4 +1,4 @@
-# 🙋‍♂️ Hello World! 🌍 
+# 🌍 Hello World!  
 
 ### 🔭 My Development Tools
 - [Visit Nuxt website](https://nuxt.com/)
