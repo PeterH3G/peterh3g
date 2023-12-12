@@ -1,5 +1,13 @@
 # 🌍 Hello World!  
 
+```bash
+{
+  peterh3g: {
+    // bio: '...'
+  }
+}
+```
+
 ### 🔭 My Development Tools
 |   |   |
 | - | - |
