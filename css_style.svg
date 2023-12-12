@@ -3,20 +3,9 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         h1 {
-          color: red;
-          animation: mymove 2s infinite;
-        }
-
-        @keyframes mymove {
-          from {
-            color: red;
-          }
-          to {
-            color: yellow;
-          }
+          font-size: 2rem;
         }
       </style>
-
       <h1>Hello World!</h1>
     </div>
   </foreignObject>
