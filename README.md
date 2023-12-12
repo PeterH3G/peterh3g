@@ -4,8 +4,6 @@
 ## 💬 About myself
 More to follow....
 
-<div align="center">
-
 |📚 Documentation | 🔗 |
 | :--- | :---: |
 | 📗 Vue 3: The Progressive JavaScript Framework | [website](https://vuejs.org/) |
@@ -16,7 +14,6 @@ More to follow....
 | 📘 Github Pages | [website](https://pages.github.com/) |
 | 📘 Github Markdown | [website](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) |
 
-</div>
   
 <!--
 **PeterH3G/peterh3g** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
