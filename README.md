@@ -10,10 +10,10 @@ some text about myself and my road to beeing a application developer.
 ### 🌱 Learning documentation
 |   |   |
 | - | - |
-| Nuxt 3 | [Visit Nuxt website](https://nuxt.com/)|
-| Vuetify 3 | [Visit Vuetify website](https://vuetifyjs.com/en/)|
-| Docker | [Visit Docker website](https://www.docker.com/)|
-| Windows Subsystem for Linxu | [Visit WSL website](https://learn.microsoft.com/en-us/windows/wsl/about?source=recommendations)|
+| Nuxt 3 | [Visit website](https://nuxt.com/)|
+| Vuetify 3 | [Visit website](https://vuetifyjs.com/en/)|
+| Docker | [Visit website](https://www.docker.com/)|
+| Windows Subsystem for Linxux | [Visit website](https://learn.microsoft.com/en-us/windows/wsl/about?source=recommendations)|
 
   
 <!--
