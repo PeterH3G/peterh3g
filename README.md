@@ -1,6 +1,6 @@
 # ✨ Hi People ✨ 
 
-## 🔭 Current projects:
+## 🔭 My development tools & environments:
 - [Nuxt 3](https://nuxt.com/)
 - [Vuetify 3](https://vuetifyjs.com/en/)
 - [Docker](https://www.docker.com/)
