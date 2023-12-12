@@ -9,7 +9,7 @@ some text about myself and my road to beeing a application developer.
 
 ### 🌱 Learning documentation
 | ⚙️ | Tool | Link |
-| --- | --- | --- | --- |
+| --- | --- | --- | 
 | ⚙️ | Nuxt 3: The Intuitive Vue Framework | [Visit website](https://nuxt.com/)|
 | ⚙️ | Vuetify 3: Vue Component Framework | [Visit website](https://vuetifyjs.com/en/)|
 | ⚙️ | Docker: Accelerated Container Application Development | [Visit website](https://www.docker.com/)|
