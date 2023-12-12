@@ -3,7 +3,7 @@ peterh3g@github.com:> User is ready!_
 ```
 
 <div align="center">
-  <img src="css_style.svg" width="400" height="200" alt="css-in-readme">
+  <img src="css_style.svg" width="100%" height="200" alt="css-in-readme">
 </div>
 
 # 🌍 Hello World! 
