@@ -1,9 +1,17 @@
 # 🌍 Hello World!  
 
 ```bash
-{
+function i_am () {
   peterh3g: {
-    // bio: '...'
+    bio: '...',
+    interests: [
+      { id: 'Full stack development' },
+      { id: 'Virtualization techniques' },
+      { id: 'Ai & Large Language Models (LLM)' },
+    ],
+    favorite: [
+      javascript_framework: 'nuxt 3'
+    ]
   }
 }
 ```
