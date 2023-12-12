@@ -1,4 +1,4 @@
-<img src="display.svg" width="200" height="200" alt="css-in-readme">
+<img src="display.svg" width="100%" height="200" alt="css-in-readme">
 
 ## 💬 About myself
 More to follow....

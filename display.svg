@@ -23,7 +23,7 @@
             color: white;
           }
           .container::after {
-            content: 'Welcome to the dark side';
+            content: 'Hello Universe!';
           }
         }
       </style>
