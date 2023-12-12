@@ -5,21 +5,14 @@ More to follow....
 
 
 
-## 📚 Documentation Sources
-|📗 | Development Frameworks |
-| --- | --- |
-|🔗 | [Nuxt 3: The Intuitive Vue Framework](https://nuxt.com/) |
-|🔗 | [Vuetify 3: Vue Component Framework](https://vuetifyjs.com/en/) |
-
-| 📕 | Virtualization Environments |
-| --- | --- |
-| 🔗 | [Docker: Accelerated Container Application Development](https://www.docker.com/) |
-| 🔗 | [Windows Subsystem for Linxux](https://learn.microsoft.com/en-us/windows/wsl/about?source=recommendations) |
-
-| 📘 | Github Documentation |
-| --- | --- |
-| 🔗 | [Github Pages](https://pages.github.com/) |
-| 🔗 | [Github Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) |
+|📚 Documentation  | 🔗 Links |
+| :--- | --- |
+| 📗 Nuxt 3: The Intuitive Vue Framework | [website](https://nuxt.com/) |
+| 📗 Vuetify 3: Vue Component Framework | [website](https://vuetifyjs.com/en/) |
+| 📕 Docker: Accelerated Container Application Development | [website](https://www.docker.com/) |
+| 📕 Windows Subsystem for Linux | [website](https://learn.microsoft.com/en-us/windows/wsl/about?source=recommendations) |
+| 📘 Github Pages | [website](https://pages.github.com/) |
+| 📘 Github Markdown | [website](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) |
 
   
 <!--
