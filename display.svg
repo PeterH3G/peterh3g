@@ -1,6 +1,6 @@
 <svg fill="none" width="100%" height="200" viewBox="0 0 100% 200" fill="none" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <xmlns="http://www.w3.org/1999/xhtml" style="display: flex; height: 100%;">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; height: 100%;">
       <style>
         .container {
           width: 100%;
@@ -17,8 +17,18 @@
         .container::after {
           content: 'Hello Universe!';
         }
+
+        @media (prefers-color-scheme: dark) {
+          .container {
+            background: rgba(0,0,0,.1);
+            color: white;
+          }
+          .container::after {
+            content: 'Hello Universe!';
+          }
+        }
       </style>
-      <div class="container" />
+      <div class="container"></div>
     </div>
   </foreignObject>
 </svg>
