@@ -7,7 +7,7 @@ peterh3g@github.com:> User is ready!_
 ## 💬 About myself
 some text about myself and my road to beeing a application developer.
 
-### Extras
+### Links
 | ⚙️ Development Tools & Environments | 🔗 Link |
 | :--- | ---- | 
 | Nuxt 3: The Intuitive Vue Framework | [Visit website](https://nuxt.com/)|
