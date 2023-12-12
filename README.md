@@ -1,7 +1,12 @@
 ```
 peterh3g@github.com:> User is ready!_
 ```
-# 🌍 Hello World!  
+
+<div align="center">
+  <img src="top.svg" width="100%" height="200" alt="css-in-readme">
+</div>
+
+# 🌍 Hello World! 
 
 ## 💬 About myself
 More to follow....
