@@ -4,7 +4,10 @@
 peterh3g@github.com:> User is ready!_
 ```
 
-### 🔭 My Development Tools
+## 💬 About myself
+some text about myself and my road to beeing a application developer.
+
+### 🌱 Learning documentation
 |   |   |
 | - | - |
 | Nuxt 3 | [Visit Nuxt website](https://nuxt.com/)|
