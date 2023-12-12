@@ -1,7 +1,8 @@
 /* CSS as copied from github's own stylesheet here, which is all one line anyway */
 
 /* And then your own CSS */
-img {
+table {
+  background-color: yellow;
   border: 1px solid #444;
 }
 
