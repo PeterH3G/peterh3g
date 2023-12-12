@@ -6,8 +6,7 @@ peterh3g@github.com:> User is ready!_
 
 
 ## 💬 About myself
-some text about myself and my road to beeing a application developer.
-
+More to follow....
 
 ## 📚 Documentation 
 ### 📗 Development Frameworks
