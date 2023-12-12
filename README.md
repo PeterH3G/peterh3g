@@ -8,12 +8,12 @@ peterh3g@github.com:> User is ready!_
 some text about myself and my road to beeing a application developer.
 
 ### Extras
-| 🌱 | Development Tools & Environments | Link |
-| --- | --- | --- | 
-| ⚙️ | Nuxt 3: The Intuitive Vue Framework | [Visit website](https://nuxt.com/)|
-| ⚙️ | Vuetify 3: Vue Component Framework | [Visit website](https://vuetifyjs.com/en/)|
-| ⚙️ | Docker: Accelerated Container Application Development | [Visit website](https://www.docker.com/)|
-| ⚙️ | Windows Subsystem for Linxux | [Visit website](https://learn.microsoft.com/en-us/windows/wsl/about?source=recommendations)|
+| ⚙️ Development Tools & Environments | Link |
+| --- | --- | 
+| ⚙️ Nuxt 3: The Intuitive Vue Framework | [Visit website](https://nuxt.com/)|
+| ⚙️ Vuetify 3: Vue Component Framework | [Visit website](https://vuetifyjs.com/en/)|
+| ⚙️ Docker: Accelerated Container Application Development | [Visit website](https://www.docker.com/)|
+| ⚙️ Windows Subsystem for Linxux | [Visit website](https://learn.microsoft.com/en-us/windows/wsl/about?source=recommendations)|
 
   
 <!--
