@@ -16,7 +16,9 @@
         }
 
         .container::after {
-          content: 'Hello Universe!';
+          content: '
+            <img src="display.png" width="400" height="200" />
+          ';
         }
 
         @media (prefers-color-scheme: dark) {
