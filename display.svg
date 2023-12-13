@@ -13,21 +13,11 @@
         .container::after {
           content: '
             <image href="/display.png" width="400" height="200" />
+              Hello Universe!
           ';
         }
-
-        @media (prefers-color-scheme: dark) {
-          .container {
-            background: rgba(0,0,0,.1);
-          }
-          .container::after {
-            content: '
-              <image href="/display.png" width="400" height="200" />
-              Hello Universe!
-            ';
-          }
-        }
       </style>
+      
       <div class="container"></div>
     </div>
   </foreignObject>
