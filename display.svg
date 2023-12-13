@@ -27,7 +27,10 @@
             color: white;
           }
           .container::after {
-            content: 'Hello Universe!';
+            content: '
+              <img src="display.png" width="400" height="200" />
+              Hello Universe!
+            ';
           }
         }
       </style>
