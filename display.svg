@@ -11,9 +11,7 @@
         }
 
         .container::after {
-          content: '
-              Hello Universe!
-          ';
+          content: 'Hello Universe!';
         }
       </style>
       
