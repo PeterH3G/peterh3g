@@ -3,7 +3,6 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>        
         div {
-          font-family: roboto;
           width: 100%;
           height: 100%;
           display: flex;
@@ -31,7 +30,7 @@
         
         h1 {
           color: white;
-          font-family: Roboto;
+          font-family: roboto;
         }
       </style>
 
