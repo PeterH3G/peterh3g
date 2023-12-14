@@ -6,5 +6,5 @@
     }
   </style>
     
-  <img href="display.png" x="0" y="0" height="200px" width="400px"/>
+  <img href="display.png" height="200px" width="400px"/>
 </svg>
