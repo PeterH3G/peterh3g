@@ -20,7 +20,7 @@
           right: 0;
           bottom: 0;
           left: 0;
-          border: 1px solid #f00;
+          border: thin solid rgba(255, 255, 255, .05);
         }
 
         .icon {
