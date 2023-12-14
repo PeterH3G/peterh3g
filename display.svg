@@ -12,6 +12,7 @@
           
           background: rgba(0, 0, 0, .1);
           outline: 1px solid rgba(255, 255, 255, .5);
+          outline-offset: -2px;
         }
 
         .icon {
