@@ -3,6 +3,12 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>       
         .container {
+          display: block;
+          width: 100%;
+          height: 100%;
+        }
+
+        .container::after {
           display: flex;
           flex: 1; /* This will make the div stretch vertically */
           justify-content: center;
@@ -10,11 +16,6 @@
           width: 100%;
           height: 100%;
           background: rgba(0, 0, 0, .5);
-        }
-
-        .container::after {
-          width: 100%;
-          height: 100%;
           content: "<h1 class="icon">🖖</h1><h1>Hello, Universe!</h1>";
         }
 
