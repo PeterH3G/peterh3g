@@ -1,5 +1,5 @@
 <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 100% 200">
-  <style>
+  <style type="text/css">
     /* Add your styles here */
     .display::after {
       width: 100%;
