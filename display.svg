@@ -8,22 +8,9 @@
   <title>SVG demonstration</title>
   <desc>Mozilla CSS Getting Started - SVG demonstration</desc>
 
-  <style type="text/css">
-    .display {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      width: 100%;
-      height: 100%;
-    }
-    
+  <style type="text/css">    
     .display::after {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      width: 100%;
-      height: 100%;
-      background-color: yellow;
+      color: yellow;
       content: "Hello Universe!";
     }
   </style>
