@@ -41,7 +41,10 @@
       </style>
 
       <div class="container">
-        <h1>Hi there, my name is PeterH3G <div class="hi">👋</div></h1>
+        <h1> 
+          <div class="hi">👋</div>
+          Hi, my name is PeterH3G
+        </h1>
       </div>
     </div>
   </foreignObject>
