@@ -16,7 +16,8 @@
           height: 200px;
           color: white;
           background-color: rgba(0,0,0,.1);
-          background-image: url("display.png");
+          background-image: url("https://github.com/PeterH3G/peterh3g/blob/main/display.png");
+          background-repeat: no-repeat;
           content: 'Hello Universe!'
         }
         </style>
