@@ -9,5 +9,5 @@
     }
   </style>
   <!-- SVG content here -->
-  <div class="display" />
+  <div class="display"></div>
 </svg>
