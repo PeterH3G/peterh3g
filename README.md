@@ -1,9 +1,5 @@
 <img src="display.svg" width="100%" height="200" alt="css-in-readme">
 
-
-## 💬 About myself
-More to follow....
-
 |📚 Documentation | 🔗 |
 | :--- | :---: |
 | 📗 Vue 3: The Progressive JavaScript Framework | [website](https://vuejs.org/) |
@@ -17,6 +13,10 @@ More to follow....
   
 <!--
 **PeterH3G/peterh3g** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## 💬 About myself
+More to follow....
+
 
 Here are some ideas to get you started:
 
