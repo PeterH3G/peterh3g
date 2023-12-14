@@ -2,7 +2,7 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        @keyframes hi  {
+        @keyframes icon  {
             0% { transform: rotate( 0.0deg) }
            10% { transform: rotate(14.0deg) }
            20% { transform: rotate(-8.0deg) }
@@ -14,10 +14,10 @@
         }
 
         .container {
-          background-color: black;
+          background-color: rbga(0,0,0,.2);
 
           width: 100%;
-          height: 200px;
+          height: 100%;
 
           display: flex;
           justify-content: center;
@@ -27,24 +27,22 @@
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
 
-        .hi {
+        .icon {
           animation: hi 1.5s linear -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
         }
 
         @media (prefers-reduced-motion) {
-          .hi {
+          .icon {
             animation: none;
           }
         }
       </style>
 
       <div class="container">
-        <h1> 
-          <div class="hi">👋</div>
+          <div class="icon">👋</div>
           Hi, my name is PeterH3G
-        </h1>
       </div>
     </div>
   </foreignObject>
