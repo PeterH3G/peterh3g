@@ -1,4 +1,7 @@
-<img src="display.svg" width="100%" height="200" alt="css-in-readme">
+
+<div align="center">
+  <img src="display.png" width="400" height="200" alt="display-image">
+</div>
 
 |📚 Documentation | 🔗 |
 | :--- | :---: |
