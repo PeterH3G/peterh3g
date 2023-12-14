@@ -3,14 +3,13 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         div {
-          width: 100%;
-          height: 200px;
-          max-height: ;
+          width: calc(100% - 2px);
+          height: calc(100% -2px);
           display: flex;
           justify-content: center;
           align-items: center;
           background: rgba(0, 0, 0, .1);
-          box-shadow: 1px 1px 1px 1px rgba(255, 255, 255, .1) inset;
+          border: thin solid rgba(255, 255, 255, .1);
         }
 
         .icon {
