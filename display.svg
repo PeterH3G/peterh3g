@@ -4,6 +4,7 @@
       <style>       
         .container {
           display: flex;
+          flex: 1; /* This will make the div stretch vertically */
           justify-content: center;
           align-items: center;
           width: 100%;
