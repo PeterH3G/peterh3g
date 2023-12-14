@@ -14,7 +14,7 @@
         }
 
         .container {
-          background-color: rbga(0,0,0,.2);
+          background: rbga(0, 0, 0, .5);
 
           width: 100%;
           height: 100%;
