@@ -9,10 +9,18 @@
           display: flex;
           justify-content: center;
           align-items: center;
-          
+
           background: rgba(0, 0, 0, .1);
-          outline: 1px solid rgba(255, 255, 255, .5);
-          outline-offset: -2px;
+        }
+
+        div::after {
+          content: '';
+          position: absolute;
+          top: 0;
+          right: 0;
+          bottom: 0;
+          left: 0;
+          border: 1px solid #f00;
         }
 
         .icon {
