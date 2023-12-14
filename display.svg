@@ -3,5 +3,5 @@
     /* Add your styles here */
   </style>
   <!-- SVG content here -->
-  <image src="display.png" width="400" heigt="200" />
+  <img src="display.png" width="400" heigt="200" />
 </svg>
