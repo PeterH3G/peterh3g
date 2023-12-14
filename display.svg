@@ -30,7 +30,7 @@
         
         h1 {
           color: white;
-          font-family: roboto;
+          font-family: system-ui, sans-serif;
         }
       </style>
 
