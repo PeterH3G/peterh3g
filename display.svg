@@ -2,10 +2,11 @@
   <foreignObject width="100%" height="200">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        div#display {
+        div#display::after {
           width: 100%;
           height: 100%;
-          background-color: yellow;
+          background-color: rgba(0,0,0,.1);
+          content: 'Hello Universe!'
         }
         </style>
         
