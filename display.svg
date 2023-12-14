@@ -28,7 +28,7 @@
         }
 
         .icon {
-          animation: hi 1.5s linear -0.5s infinite;
+          animation: icon 1.5s linear -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
         }
