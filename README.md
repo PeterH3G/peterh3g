@@ -1,7 +1,4 @@
-
-<div align="center">
-  <img src="display.svg" width="100%" height="200" alt="display-image">
-</div>
+ <img src="display.svg" width="100%" height="200" alt="display-image">
 
 |📚 Documentation | 🔗 |
 | :--- | :---: |
