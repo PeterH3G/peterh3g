@@ -43,6 +43,8 @@
       </style>
 
       <div class="container" xmlns="http://www.w3.org/1999/xhtml">
+        <h1 class="icon">🖖</h1>
+        <h1>Hello, Universe!</h1>
       </div>
     </div>
   </foreignObject>
