@@ -13,11 +13,9 @@
         }
 
         .container::after {
-          content: '
-            <!-- Your SVG code here -->
-            <h1 class="icon">🖖</h1>
-            <h1>Hello, Universe!</h1>
-          ';
+          width: 100%;
+          height: 100%;
+          content: "<h1 class="icon">🖖</h1><h1>Hello, Universe!</h1>";
         }
 
         .icon {
