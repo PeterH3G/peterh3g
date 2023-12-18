@@ -16,7 +16,7 @@
         }
 
         div::after {
-          content: 'PeterH3G@GitHub:~/$ User is ready!';
+          content: '';
           position: absolute;
           top: 0;
           right: 0;

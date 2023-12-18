@@ -1,4 +1,4 @@
- <img src="display.svg" width="100%" height="200" alt="display-image">
+ <img src="README.svg" width="100%" height="200" alt="README image">
 
 |📚 Documentation | 🔗 |
 | :--- | :---: |
