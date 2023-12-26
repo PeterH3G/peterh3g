@@ -1,6 +1,4 @@
- <img src="README.svg" width="100%" height="200" alt="README image">
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Peter Heg
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello World
 =================================================================================================================================
 
 Application developer and designer
