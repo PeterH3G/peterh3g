@@ -1,8 +1,5 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello World
-=================================================================================================================================
-
 PeterH3G @ your service
-----------------------------------
+=================================================================================================================================
 
 I've been learning to code for 10 years, after switching careers. I started with HTML & CSS, but have really found a passion for full-stack development and AI.
 
