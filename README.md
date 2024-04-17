@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-    <strong style="font-size:32px">Core</strong>
+    <strong style="font-size:50px">Core</strong>
     <br />
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" height="50" alt="Git" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" /></a>
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<strong style="font-size:32px">Frontend</strong>
+<strong style="font-size:50px">Frontend</strong>
 <br />
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="50" height="50" alt="Vue" /></a>
 <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="50" height="50" alt="Nuxtjs" /></a>
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-<strong style="font-size:32px">Backend</strong>
+<strong style="font-size:50px">Backend</strong>
 <br />
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"  width="50" height="50" alt="NodeJS" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg"  width="50" height="50" alt="GraphQL" /></a>
@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-<strong style="font-size:32px">Other</strong>
+<strong style="font-size:50px">Other</strong>
 <br />
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg"  width="50" height="50" alt="Laravel" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"  width="50" height="50" alt="Docker" /></a>
@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-<strong style="font-size:32px">Socials</strong> 
+<strong style="font-size:50px">Socials</strong> 
 <br />
 <a href="https://www.github.com/peterh3g" target="_blank" rel="noreferrer"> 
     <picture> 
