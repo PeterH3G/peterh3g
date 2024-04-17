@@ -50,12 +50,24 @@
 <p align="center">
 <strong style="font-size:20px">Socials</strong> 
 <br />
-<a href="https://www.github.com/peterh3g" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /> </picture></a>
-<a href="https://www.linkedin.com/in/peterheg/" target="_blank" rel="noreferrer"><picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /></picture></a>
+<a href="https://www.github.com/peterh3g" target="_blank" rel="noreferrer"> 
+    <picture> 
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /> 
+    </picture>
+</a>
+<a href="https://www.linkedin.com/in/peterheg/" target="_blank" rel="noreferrer">
+    <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" />
+    </picture>
+</a>
 </p>
 
 <p align="center">
-<a href="https://github.com/peterh3g" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterh3g&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=My%20%Languages" alt="PeterH3G Languages" width="100%" /></a>
+<a href="https://github.com/peterh3g" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterh3g&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=My%20%Languages" alt="PeterH3G Languages" width="100%" />
+</a>
 </p>
 <!--
 **PeterH3G/peterh3g** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
