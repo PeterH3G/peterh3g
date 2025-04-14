@@ -1,7 +1,7 @@
 <h1 align="center">
     <strong style="font-size:40px">PeterH3G</strong>
     <br /> 
-    <div style="font-size:20px">Fullstack Developer</div>
+    <div style="font-size:20px">Creative Developer</div>
 </h1>
 
 <p align="center">
