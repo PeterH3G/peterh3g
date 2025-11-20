@@ -51,10 +51,9 @@
         }
 
         .container {
-          --color-main: #5452ee;
-          --color-primary: #e73c7e;
-          --color-secondary: #23a6d5;
-          --color-tertiary: #ffff;
+          --color-main: rgb(13, 17, 23);
+          --color-primary: rgb(31, 31, 41);
+          --color-secondary: rgb(255, 198, 128);
 
           background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
           background-size: 400% 400%;
@@ -68,7 +67,8 @@
           align-items: center;
           color: white;
 
-          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+          font-family: Roboto, Helvetica";
+
         }
 
         .hi {
