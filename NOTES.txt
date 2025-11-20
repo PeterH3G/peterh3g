@@ -1,0 +1,4 @@
+<style>
+html { background-color: rgb(34, 30, 40); }
+body { font-family: Tahoma, sans-serif; }
+</style>
