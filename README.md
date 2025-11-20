@@ -1,3 +1,3 @@
-<div style="width: 100%;">
-  <img src="README.svg" style="width: 100%;" alt="Click to see the source">
+<div style="width: 100%; height: 200px;">
+  <img src="README.svg" style="width: 100%; height: 200px" alt="Click to see the source">
 </div>
