@@ -4,7 +4,7 @@
       <style>
         .container {
           width: 100%;
-          min-height: 150px;
+          max-height: 150px;
           display: flex;
           justify-content: start;
           align-items: start;
