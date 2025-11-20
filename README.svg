@@ -58,7 +58,7 @@
         }
 
         h1 .animation {
-          animation: title-animation 1.5s linear -0.5s infinite;
+          animation: animation 1.5s linear -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
         }
