@@ -2,9 +2,38 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        :root {
-          --steps: 16; // Char count
-          --background: #1d1f20;
+        @keyframes animation {
+          0% {
+            transform: rotate(0.0deg)
+          }
+
+          10% {
+            transform: rotate(14.0deg)
+          }
+
+          20% {
+            transform: rotate(-8.0deg)
+          }
+
+          30% {
+            transform: rotate(14.0deg)
+          }
+
+          40% {
+            transform: rotate(-4.0deg)
+          }
+
+          50% {
+            transform: rotate(10.0deg)
+          }
+
+          60% {
+            transform: rotate(0.0deg)
+          }
+
+          100% {
+            transform: rotate(0.0deg)
+          }
         }
 
         .container {
@@ -18,39 +47,34 @@
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
 
-        .typing {
-          font-family: 'Inconsolata', Consolas, monospace;
-          font-size: 6vw;
-          color: #d7b94c;
-          position: relative;
-
-          &::after {
-            content: "|";
-            position: absolute;
-            right: 0;
-            width: 100%;
-            color: white;
-            background: var(--background);
-            animation: typing 4s steps(var(--steps)) forwards,
-              caret 1s infinite;
-          }
+        h1.title {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
         }
 
-        @keyframes typing {
-          to {
-            width: 0
-          }
+        h1 .name {
+          display: flex;
         }
 
-        @keyframes caret {
-          50% {
-            color: transparent
+        h1 .animation {
+          animation: animation 1.5s linear -0.5s infinite;
+          display: inline-block;
+          transform-origin: 70% 70%;
+        }
+
+        @media (prefers-reduced-motion) {
+          .animation {
+            animation: none;
           }
         }
       </style>
 
       <div class="container">
-        <h1 class="title typing">PeterH3G</h1>
+        <h1 class="title">
+          <span class="name">PeterH3G</span>
+          <span class="animation">👋</span>
+        </h1>
       </div>
     </div>
   </foreignObject>
