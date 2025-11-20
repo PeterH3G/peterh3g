@@ -1,3 +1,3 @@
 # Hello Universe
 
-<img src="social-preview.png"/>
+<img src="README.svg"/>
