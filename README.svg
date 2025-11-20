@@ -1,12 +1,10 @@
-<svg width="100%" height="100%" viewBox="0 0 1280 150" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="100%" viewBox="0 0 1280 250" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         :is(.container) {
           width: 100%;
-          height: 150px;
-          min-height: 150px;
-          max-height: 150px;
+          height: 250px;
           padding: 10px;
 
           background-color: rgb(22, 27, 34);
@@ -16,7 +14,7 @@
       </style>
 
       <div class="container">
-        <div class="title">PeterH3G</div>
+        <h1 align="center" class="title">PeterH3G</h1>
       </div>
     </div>
   </foreignObject>
