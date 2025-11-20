@@ -2,6 +2,11 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
+        :root {
+          --steps: 16; // Char count
+          --background: #1d1f20;
+        }
+
         .container {
           width: 100%;
           min-height: 350px;
