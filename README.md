@@ -1,3 +1,3 @@
 # Hello Universe
 
-<img src="README.svg"/>
+<img alt="README vector graphic" src="README.svg"/>
