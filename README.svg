@@ -53,11 +53,11 @@
           align-items: center;
         }
 
-        h1 .name {
+        h1.title .name {
           display: flex;
         }
 
-        h1 .animation {
+        h1.title .animation {
           animation: animation 1.5s linear -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
