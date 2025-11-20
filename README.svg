@@ -2,7 +2,7 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        @keyframes hi {
+        @keyframes title-animation {
           0% {
             transform: rotate(0.0deg)
           }
@@ -47,14 +47,14 @@
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
 
-        .hi {
-          animation: hi 1.5s linear -0.5s infinite;
+        .title-animation {
+          animation: title-animation 1.5s linear -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
         }
 
         @media (prefers-reduced-motion) {
-          .hi {
+          .title-animation {
             animation: none;
           }
         }
@@ -62,8 +62,8 @@
 
       <div class="container">
         <h1 class="title">
-          Hello Universe!
-          <div class="hi">👋</div>
+          <span>PeterH3G</span>
+          <span class="title-animation">👋</span>
         </h1>
       </div>
     </div>
