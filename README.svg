@@ -23,26 +23,20 @@
         }
 
         h1 {
-          display: block;
+          display: flex;
           font-size: 64px;
           font-weight: 500;
           height: 76.8px;
-
-          margin-top: 0px;
-          margin-bottom: 0px;
-
-          line-height: 76.8px;
+          margin: 0;
           text-align: center;
           text-size-adjust: 100%;
         }
 
         p {
-          display: block;
+          display: flex;
           color: rgb(132, 141, 151);
           font-size: 18px;
-
-          margin-top: 0px;
-          margin-bottom: 0px;
+          margin: 0;
         }
       </style>
 
