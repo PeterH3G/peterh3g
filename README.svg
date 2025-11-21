@@ -13,8 +13,8 @@
           padding: 0;
           margin: 0;
 
-          background: radial-gradient(rgba(255, 255, 255, .1), rgb(22, 27, 34));
-          border-color: rgb(33, 38, 45);
+          background: radial-gradient(rgb(22, 27, 34), rgb(13, 17, 23));
+          border-color: rgb(132, 141, 151);
           border-radius: 8px;
 
           color: rgb(230, 237, 243);
@@ -31,9 +31,10 @@
           padding: 0;
           text-align: center;
           text-size-adjust: 100%;
+          color: rgb(230, 237, 243);
         }
 
-        p {
+        em {
           display: flex;
           color: rgb(132, 141, 151);
           font-size: 24px;
@@ -44,7 +45,7 @@
 
       <div class="container">
         <h1 class="title">PeterH3G</h1>
-        <p>Always Be Coding</p>
+        <em>Always Be Coding</em>
       </div>
     </div>
   </foreignObject>
