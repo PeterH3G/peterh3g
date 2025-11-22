@@ -1,18 +1,3 @@
-<div class="container">
-    <img src="README.svg" alt="README Graphic" class="svg">
-    <img src="README.png" alt="Project Logo" class="png" />
+<div style="width: 100%;">
+    <img src="README.svg" style="width: 100%;" alt="README Graphic">
 </div>
-<style>
-    .container {
-        width: 100%;
-    }
-    .svg {
-        width: 100%;
-    }
-    .png {
-        position: fixed;
-        left: 0;
-        top: 0;
-        width: 200px;
-    }
-</style>
