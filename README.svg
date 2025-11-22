@@ -21,16 +21,6 @@
           text-align: center;
         }
 
-        :is(.background) {
-          position: fixed;
-          left: 0;
-          top: 0;
-          width: 100%;
-          height: 250px;
-          padding: 0;
-          margin: 0;
-        }
-
         h1 {
           display: flex;
           font-size: 64px;
