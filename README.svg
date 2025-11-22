@@ -54,6 +54,7 @@
 
       <div class="container">
         <div class="background" />
+        <img src="README.png" alt="Project Logo" />
         <h1 class="title">PeterH3G</h1>
         <em>Always Be Coding</em>
       </div>
