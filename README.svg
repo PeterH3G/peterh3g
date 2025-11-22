@@ -12,14 +12,23 @@
           height: 250px;
           padding: 0;
           margin: 0;
-
-          background: radial-gradient(rgb(22, 27, 34), rgb(13, 17, 23));
           border-color: rgb(132, 141, 151);
           border-radius: 8px;
 
           color: rgb(230, 237, 243);
           font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
           text-align: center;
+        }
+
+        :is(.background) {
+          position: fixed;
+          left: 0;
+          top: 0;
+          width: 100%;
+          height: 250px;
+          padding: 0;
+          margin: 0;
+          background: radial-gradient(rgba(255, 255, 255, .05) 1%, rgba(13, 17, 23, 1) 90%);
         }
 
         h1 {
@@ -44,6 +53,7 @@
       </style>
 
       <div class="container">
+        <div class="background" />
         <h1 class="title">PeterH3G</h1>
         <em>Always Be Coding</em>
       </div>
