@@ -11,8 +11,7 @@
 
 <!-- Fallback for renderers that strip inline styles (GitHub will usually show this). -->
 <p align="center">
-	<img alt="PeterH3G Background" style="position: fixed; left: 0; width: 100%; max-width: 100%; height: auto; border-radius: 8px; z-index: -10;" src="./README.svg">
-    <img alt="IDE Screenshot" style="position: absolute; left: 10px; bottom: 10px; width: 50%; height: auto;" src="./README.png">
+	<img alt="PeterH3G Background" style="border-radius: 8px;" src="./README.svg">
 </p>
 
 <!-- Short project blurb. Extend this with your project details below. -->
