@@ -1,51 +1,18 @@
-<svg width="100%" height="100%" viewBox="0 0 1280 250" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        :is(.container) {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          align-items: center;
+<svg width="100%" height="100%" viewBox="0 0 1280 250" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">PeterH3G — Always Be Coding</title>
+  <desc id="desc">A dark radial background with the name "PeterH3G" and the subtitle "Always Be Coding" centered.</desc>
 
-          width: 100%;
-          height: 250px;
-          padding: 0;
-          margin: 0;
-          border-color: rgb(132, 141, 151);
-          border-radius: 8px;
-          background: radial-gradient(rgba(255, 255, 255, 0), rgba(13, 17, 23, 1));
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="35%" r="75%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0)"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </radialGradient>
+  </defs>
 
-          color: rgb(230, 237, 243);
-          font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
-          text-align: center;
-        }
+  <rect x="0" y="0" width="1280" height="250" rx="8" ry="8" fill="url(#bgGrad)" stroke="rgba(132,141,151,0.12)"/>
 
-        h1 {
-          display: flex;
-          font-size: 64px;
-          font-weight: 500;
-          height: 76.8px;
-          margin: 0;
-          padding: 0;
-          text-align: center;
-          text-size-adjust: 100%;
-          color: rgb(230, 237, 243);
-        }
-
-        em {
-          display: flex;
-          color: rgb(132, 141, 151);
-          font-size: 24px;
-          margin: 20px auto;
-          padding: 0;
-        }
-      </style>
-
-      <div class="container">
-        <h1>PeterH3G</h1>
-        <em>Always Be Coding</em>
-      </div>
-    </div>
-  </foreignObject>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'" text-anchor="middle">
+    <text x="50%" y="105" font-size="64" font-weight="500" fill="rgb(230,237,243)" dominant-baseline="middle">PeterH3G</text>
+    <text x="50%" y="155" font-size="24" fill="rgb(132,141,151)" dominant-baseline="middle">Always Be Coding</text>
+  </g>
 </svg>
