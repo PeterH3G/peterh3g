@@ -10,7 +10,7 @@
 </div>
 
 <!-- Fallback for renderers that strip inline styles (GitHub will usually show this). -->
-<p align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+<p align="center" style="display: block; position: relative;">
 	<img alt="PeterH3G Background" style="max-width: 100%; height: auto; border-radius: 8px;" src="./README.svg">
     <img alt="IDE Screenshot" style="width: 50%; display: flex; position: absolute; bottom: 0;" src="./README.png">
 </p>
