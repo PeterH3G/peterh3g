@@ -1,7 +1,7 @@
 <svg class="header-art" width="100%" height="100%" viewBox="0 0 1280 250" preserveAspectRatio="xMidYMid meet"
   xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">PeterH3G — Always Be Coding</title>
-  <desc id="desc">A dark radial background with the name "PeterH3G" and the subtitle "Always Be Coding" centered.</desc>
+  <desc id="desc">GitHub Profile of PeterH3G</desc>
 
   <defs>
     <radialGradient id="bgGrad" cx="50%" cy="50%" r="75%">
