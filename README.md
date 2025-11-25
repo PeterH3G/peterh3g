@@ -1,10 +1,3 @@
-<!-- Header area that uses README.svg as a background image. -->
-<!--
-	GitHub strips many inline styles in README HTML for security reasons.
-	When styles are allowed (local viewers or other platforms) the SVG will
-	appear as a header background. An <img> fallback is included for strict
-	renderers.
--->
 <style>
 	img.svg {
 		max-width: 100%;
@@ -15,6 +8,14 @@
 		position: relative;
 	}
 </style>
+
+<!-- Header area that uses README.svg as a background image. -->
+<!--
+	GitHub strips many inline styles in README HTML for security reasons.
+	When styles are allowed (local viewers or other platforms) the SVG will
+	appear as a header background. An <img> fallback is included for strict
+	renderers.
+-->
 
 <div align="center" style="background-image: url('./README.svg'); background-size: cover; padding: 0; border-radius: 8px;"></div>
 
