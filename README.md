@@ -7,7 +7,6 @@
 -->
 
 <div align="center" style="background-image: url('./README.svg'); background-size: cover; padding: 0; border-radius: 8px;">
-    <img alt="IDE Screenshot" style="position: relative; max-width: 50%; position: absolute; left: 0; bottom: 0;" src="./README.png">
 </div>
 
 <!-- Fallback for renderers that strip inline styles (GitHub will usually show this). -->
