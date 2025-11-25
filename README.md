@@ -6,13 +6,16 @@
 	renderers.
 -->
 
-<div align="center" style="background-image: url('./README.svg'); background-size: cover; padding: 0; border-radius: 8px;" />
+<div align="center" style="background-image: url('./README.svg'); background-size: cover; padding: 0; border-radius: 8px;">
+    <img source="./README.png">
+</div>
 
 <!-- Fallback for renderers that strip inline styles (GitHub will usually show this). -->
 <p align="center">
 	<a href="./README.svg" title="Header image">
 		<img src="./README.svg" alt="PeterH3G — Always Be Coding" style="max-width:100%; height:auto; border-radius:8px;">
 	</a>
+    <img source="./README.png">
 </p>
 
 <!-- Short project blurb. Extend this with your project details below. -->
