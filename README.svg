@@ -19,7 +19,7 @@
     <text x="50%" y="155" font-size="24" fill="rgb(132,141,151)" dominant-baseline="middle">Always Be Coding</text>
   </g>
 
-  <svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
-    <image href="./README.png" x="0" y="0" width="500" height="300" />
-  </svg>
+  <foreignObject width="500" height="300">
+    <img src="./README.png" style="width:100%; height:100%;" />
+  </foreignObject>
 </svg>
