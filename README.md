@@ -7,8 +7,6 @@
 -->
 
 <div align="center" style="background-image: url('./README.svg'); background-size: cover; padding: 40px 24px; border-radius: 8px;">
-	<h1 style="margin:0; padding:0; font-weight:600; color: #e6edf3; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;">PeterH3G</h1>
-	<p style="margin:6px 0 0; color:#848d97;">Always Be Coding</p>
 </div>
 
 <!-- Fallback for renderers that strip inline styles (GitHub will usually show this). -->
