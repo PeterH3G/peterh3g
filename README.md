@@ -1,7 +1,3 @@
-# PeterH3G — Always Be Coding
-
-Open `index.html` in a browser to preview the header art, or view this README on GitHub.
-
 <div style="width: 100%;">
 <svg class="header-art" width="100%" height="100%" viewBox="0 0 1280 250" preserveAspectRatio="xMidYMid meet"
   xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
