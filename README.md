@@ -6,9 +6,7 @@
 	renderers.
 -->
 
-<div align="center" style="background-image: url('./README.svg'); background-size: cover; padding: 0; border-radius: 8px;">
-    <img src="./README.png" style="display: flex; max-width: 300px">
-</div>
+<div align="center" style="background-image: url('./README.svg'); background-size: cover; padding: 0; border-radius: 8px;"></div>
 
 <!-- Fallback for renderers that strip inline styles (GitHub will usually show this). -->
 <p align="center">
