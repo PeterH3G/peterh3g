@@ -1,14 +1,3 @@
-<style>
-	img.svg {
-		max-width: 100%;
-		height: auto;
-		border-radius: 8px;
-	}
-	img.ide {
-		position: relative;
-	}
-</style>
-
 <!-- Header area that uses README.svg as a background image. -->
 <!--
 	GitHub strips many inline styles in README HTML for security reasons.
@@ -17,12 +6,14 @@
 	renderers.
 -->
 
-<div align="center" style="background-image: url('./README.svg'); background-size: cover; padding: 0; border-radius: 8px;"></div>
+<div align="center" style="background-image: url('./README.svg'); background-size: cover; padding: 0; border-radius: 8px;">
+    <img alt="IDE Screenshot" style="position: relative;" src="./README.png">
+</div>
 
 <!-- Fallback for renderers that strip inline styles (GitHub will usually show this). -->
 <p align="center">
-	<img alt="PeterH3G Background" class="svg" src="./README.svg">
-    <img alt="IDE Screenshot" class="ide" src="./README.png">
+	<img alt="PeterH3G Background" style="max-width: 100%; height: auto; border-radius: 8px;" src="./README.svg">
+    <img alt="IDE Screenshot" style="position: relative;" src="./README.png">
 </p>
 
 <!-- Short project blurb. Extend this with your project details below. -->
