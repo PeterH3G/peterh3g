@@ -7,13 +7,13 @@
 -->
 
 <div align="center" style="background-image: url('./README.svg'); background-size: cover; padding: 0; border-radius: 8px;">
-    <img src="./favicon.ico" style="position: fixed; left: 0; top: 0;">
+    <img src="./favicon.ico" alt="PeterH3G Icon" style="position: fixed; left: 0; top: 0;">
 </div>
 
 <!-- Fallback for renderers that strip inline styles (GitHub will usually show this). -->
 <p align="center">
-    <img src="./favicon.ico" style="position: fixed; left: 0; top: 0;">
 	<a href="./README.svg" title="Header image">
+        <img src="./favicon.ico" alt="PeterH3G Icon" style="position: fixed; left: 0; top: 0;">
 		<img src="./README.svg" alt="PeterH3G — Always Be Coding" style="max-width:100%; height:auto; border-radius:8px;">
 	</a>
 </p>
