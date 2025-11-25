@@ -5,7 +5,7 @@
 
   <style>
     .header-art {
-      background: radial-gradient(circle at 50% 35%, rgba(255, 255, 255, 0) 0%, #0d1117 100%);
+      background: radial-gradient(circle at 50% 35%, rgba(255, 255, 255, .1) 0%, #0d1117 100%);
       background-color: #0d1117;
       overflow: hidden;
       border-radius: 8px;
