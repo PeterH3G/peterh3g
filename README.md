@@ -10,9 +10,9 @@
 </div>
 
 <!-- Fallback for renderers that strip inline styles (GitHub will usually show this). -->
-<p align="center">
+<p align="center" style="display: relative;">
 	<img alt="PeterH3G Background" style="max-width: 100%; height: auto; border-radius: 8px;" src="./README.svg">
-    <img alt="IDE Screenshot" style="position: relative; max-width: 50%; position: absolute; left: 0; bottom: 0;" src="./README.png">
+    <img alt="IDE Screenshot" style="width: 50%; position: absolute; left: 0; bottom: 0;" src="./README.png">
 </p>
 
 <!-- Short project blurb. Extend this with your project details below. -->
